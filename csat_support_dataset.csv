@@ -1,0 +1,501 @@
+Ticket ID,Date,Agent Name,Team,Channel,Issue Type,Resolution Time (mins),FCR,CSAT Score,Escalated,Customer Type,Region
+T0001,21-01-2026,Pooja,Payments,Email,Refund,28,Yes,3,No,Prime,South
+T0002,07-02-2026,Amit,Delivery,Chat,Wrong Item,33,Yes,2,No,Regular,South
+T0003,26-03-2026,Neha,Account,Email,Account Locked,56,Yes,3,Yes,Prime,West
+T0004,14-02-2026,Karan,Tech Support,Call,Account Locked,31,Yes,4,No,Prime,South
+T0005,11-03-2026,Amit,Delivery,Call,Login Issue,21,No,4,No,Prime,East
+T0006,27-02-2026,Amit,Returns,Call,Late Delivery,33,Yes,3,No,Regular,East
+T0007,12-03-2026,Priya,Delivery,Chat,Refund,39,No,2,Yes,Prime,North
+T0008,24-03-2026,Amit,Delivery,Call,Late Delivery,55,Yes,3,No,Regular,North
+T0009,14-03-2026,Neha,Account,Chat,Account Locked,54,Yes,1,Yes,Regular,South
+T0010,30-01-2026,Rohit,Payments,Call,Late Delivery,14,No,4,No,Regular,East
+T0011,20-03-2026,Amit,Delivery,Call,Wrong Item,28,No,3,Yes,Regular,East
+T0012,13-04-2026,Priya,Tech Support,Call,Wrong Item,38,Yes,4,No,Prime,West
+T0013,06-04-2026,Amit,Account,Chat,Wrong Item,23,Yes,3,No,Regular,West
+T0014,25-01-2026,Rohit,Account,Email,Login Issue,23,No,2,No,Regular,East
+T0015,15-04-2026,Neha,Tech Support,Chat,Wrong Item,57,Yes,3,No,Regular,North
+T0016,29-04-2026,Priya,Returns,Chat,Account Locked,17,Yes,4,No,Prime,South
+T0017,19-01-2026,Sneha,Delivery,Email,Account Locked,37,No,2,Yes,Regular,East
+T0018,01-02-2026,Priya,Tech Support,Email,Payment Failed,33,No,2,No,Regular,West
+T0019,13-03-2026,Rohit,Tech Support,Chat,Payment Failed,9,Yes,4,No,Regular,East
+T0020,18-02-2026,Neha,Returns,Chat,Payment Failed,46,Yes,3,No,Prime,South
+T0021,19-01-2026,Pooja,Delivery,Email,Refund,36,Yes,2,No,Prime,East
+T0022,20-03-2026,Karan,Account,Chat,Refund,24,Yes,3,Yes,Regular,East
+T0023,26-01-2026,Neha,Payments,Email,Account Locked,10,Yes,5,Yes,Regular,South
+T0024,12-04-2026,Neha,Account,Call,Payment Failed,35,Yes,4,No,Regular,North
+T0025,14-03-2026,Sneha,Delivery,Chat,Late Delivery,49,Yes,4,No,Prime,South
+T0026,29-04-2026,Neha,Payments,Call,Refund,30,Yes,4,No,Prime,East
+T0027,25-04-2026,Sneha,Returns,Email,Payment Failed,17,No,4,No,Regular,East
+T0028,16-04-2026,Karan,Payments,Call,Payment Failed,34,Yes,4,No,Regular,South
+T0029,22-04-2026,Amit,Delivery,Email,Late Delivery,54,Yes,2,No,Regular,South
+T0030,18-02-2026,Priya,Account,Call,Wrong Item,42,Yes,1,Yes,Prime,South
+T0031,31-03-2026,Pooja,Account,Email,Refund,23,Yes,3,Yes,Prime,South
+T0032,13-04-2026,Pooja,Payments,Chat,Wrong Item,43,No,3,No,Prime,West
+T0033,17-03-2026,Karan,Returns,Email,Late Delivery,30,No,2,No,Regular,East
+T0034,14-01-2026,Rahul,Delivery,Call,Late Delivery,59,No,3,No,Prime,North
+T0035,29-04-2026,Rohit,Delivery,Chat,Refund,49,Yes,3,No,Prime,South
+T0036,15-02-2026,Amit,Delivery,Chat,Wrong Item,21,Yes,1,Yes,Regular,South
+T0037,12-02-2026,Rohit,Tech Support,Call,Payment Failed,15,Yes,3,Yes,Prime,South
+T0038,04-04-2026,Priya,Account,Chat,Refund,52,No,2,No,Prime,South
+T0039,19-01-2026,Priya,Tech Support,Email,Login Issue,24,Yes,3,No,Prime,South
+T0040,03-03-2026,Amit,Delivery,Email,Refund,17,Yes,4,No,Prime,North
+T0041,16-02-2026,Neha,Account,Call,Wrong Item,55,Yes,2,No,Regular,North
+T0042,02-02-2026,Amit,Delivery,Call,Late Delivery,38,Yes,2,Yes,Prime,South
+T0043,04-01-2026,Pooja,Payments,Chat,Login Issue,34,Yes,4,No,Regular,East
+T0044,18-03-2026,Amit,Tech Support,Chat,Account Locked,27,No,3,No,Regular,South
+T0045,08-04-2026,Karan,Payments,Email,Refund,8,No,3,No,Prime,East
+T0046,05-01-2026,Sneha,Delivery,Call,Account Locked,22,Yes,3,No,Regular,South
+T0047,23-02-2026,Neha,Returns,Call,Login Issue,26,Yes,3,No,Prime,West
+T0048,01-02-2026,Pooja,Payments,Chat,Late Delivery,15,Yes,3,Yes,Prime,West
+T0049,22-01-2026,Rahul,Delivery,Call,Refund,40,Yes,4,No,Prime,South
+T0050,12-01-2026,Priya,Payments,Chat,Refund,47,No,4,No,Prime,North
+T0051,15-01-2026,Neha,Tech Support,Chat,Late Delivery,6,Yes,4,No,Regular,West
+T0052,04-01-2026,Priya,Payments,Call,Wrong Item,46,Yes,2,No,Regular,North
+T0053,03-03-2026,Rohit,Returns,Email,Login Issue,48,Yes,2,Yes,Prime,North
+T0054,14-02-2026,Neha,Tech Support,Email,Login Issue,21,Yes,2,No,Prime,East
+T0055,10-02-2026,Rohit,Returns,Call,Refund,55,Yes,4,No,Prime,South
+T0056,02-04-2026,Sneha,Delivery,Email,Late Delivery,18,Yes,4,No,Regular,East
+T0057,14-04-2026,Pooja,Account,Email,Wrong Item,27,No,3,Yes,Regular,North
+T0058,29-04-2026,Rahul,Account,Call,Late Delivery,57,Yes,4,No,Regular,North
+T0059,24-02-2026,Rahul,Payments,Chat,Wrong Item,32,No,2,Yes,Prime,North
+T0060,20-02-2026,Sneha,Delivery,Call,Account Locked,25,No,3,Yes,Prime,East
+T0061,12-04-2026,Neha,Tech Support,Email,Login Issue,24,No,2,No,Regular,South
+T0062,29-03-2026,Priya,Delivery,Chat,Refund,56,Yes,4,No,Regular,North
+T0063,17-02-2026,Karan,Tech Support,Email,Refund,9,No,4,No,Regular,West
+T0064,13-01-2026,Priya,Delivery,Call,Payment Failed,9,No,1,Yes,Regular,East
+T0065,14-03-2026,Priya,Returns,Chat,Wrong Item,24,Yes,2,No,Prime,North
+T0066,13-04-2026,Amit,Tech Support,Email,Login Issue,49,Yes,4,No,Regular,West
+T0067,14-04-2026,Rohit,Payments,Chat,Login Issue,52,No,2,No,Regular,North
+T0068,14-04-2026,Rohit,Payments,Call,Late Delivery,16,Yes,4,No,Prime,South
+T0069,01-04-2026,Priya,Account,Chat,Payment Failed,29,Yes,3,No,Prime,North
+T0070,06-03-2026,Rohit,Payments,Call,Login Issue,25,Yes,3,No,Prime,North
+T0071,17-02-2026,Rahul,Account,Call,Late Delivery,36,No,2,No,Regular,East
+T0072,18-04-2026,Amit,Account,Chat,Account Locked,37,Yes,2,No,Regular,South
+T0073,06-03-2026,Rahul,Payments,Chat,Payment Failed,47,Yes,3,No,Regular,North
+T0074,17-02-2026,Rahul,Returns,Chat,Wrong Item,33,No,1,Yes,Prime,North
+T0075,03-04-2026,Sneha,Payments,Chat,Wrong Item,40,Yes,3,Yes,Prime,East
+T0076,04-02-2026,Amit,Tech Support,Call,Wrong Item,27,No,3,No,Prime,West
+T0077,27-01-2026,Karan,Payments,Call,Wrong Item,41,Yes,2,No,Regular,South
+T0078,08-01-2026,Rahul,Returns,Call,Account Locked,35,No,2,No,Prime,East
+T0079,10-02-2026,Pooja,Payments,Call,Refund,25,Yes,2,No,Prime,East
+T0080,13-04-2026,Pooja,Delivery,Chat,Late Delivery,11,No,4,No,Regular,East
+T0081,23-04-2026,Priya,Tech Support,Call,Late Delivery,20,No,4,No,Regular,West
+T0082,24-02-2026,Neha,Returns,Chat,Late Delivery,13,No,1,Yes,Regular,North
+T0083,15-02-2026,Amit,Payments,Email,Refund,16,Yes,3,Yes,Prime,South
+T0084,11-03-2026,Rahul,Payments,Chat,Late Delivery,6,Yes,5,No,Prime,East
+T0085,25-02-2026,Karan,Payments,Call,Payment Failed,43,Yes,4,No,Regular,North
+T0086,24-03-2026,Rahul,Payments,Email,Login Issue,26,No,3,No,Prime,South
+T0087,04-01-2026,Sneha,Payments,Email,Account Locked,27,No,4,No,Prime,East
+T0088,03-04-2026,Sneha,Returns,Email,Account Locked,56,Yes,3,No,Regular,West
+T0089,09-01-2026,Karan,Payments,Call,Late Delivery,22,Yes,2,No,Regular,West
+T0090,14-03-2026,Neha,Account,Email,Login Issue,46,Yes,4,No,Regular,East
+T0091,13-03-2026,Karan,Returns,Email,Payment Failed,47,No,2,No,Prime,South
+T0092,03-03-2026,Pooja,Account,Email,Refund,10,No,2,No,Regular,North
+T0093,27-02-2026,Amit,Tech Support,Chat,Payment Failed,36,Yes,4,No,Regular,West
+T0094,28-01-2026,Priya,Returns,Call,Refund,30,Yes,3,No,Prime,West
+T0095,20-04-2026,Karan,Returns,Email,Payment Failed,21,No,3,No,Regular,South
+T0096,02-04-2026,Karan,Account,Call,Wrong Item,8,Yes,4,No,Prime,North
+T0097,05-03-2026,Karan,Delivery,Call,Late Delivery,29,No,3,Yes,Prime,West
+T0098,14-03-2026,Sneha,Tech Support,Chat,Login Issue,27,Yes,3,No,Regular,West
+T0099,24-04-2026,Amit,Payments,Email,Account Locked,19,Yes,2,No,Prime,East
+T0100,06-03-2026,Sneha,Returns,Chat,Refund,33,Yes,3,Yes,Prime,East
+T0101,28-04-2026,Neha,Account,Email,Payment Failed,30,No,4,No,Prime,West
+T0102,09-03-2026,Rohit,Payments,Chat,Wrong Item,59,Yes,4,No,Regular,East
+T0103,05-01-2026,Amit,Tech Support,Chat,Wrong Item,48,Yes,3,No,Prime,West
+T0104,02-02-2026,Rohit,Returns,Call,Late Delivery,8,No,4,No,Prime,East
+T0105,14-02-2026,Sneha,Payments,Call,Refund,52,No,2,No,Prime,East
+T0106,27-03-2026,Pooja,Returns,Chat,Login Issue,9,Yes,5,No,Prime,South
+T0107,24-03-2026,Priya,Tech Support,Call,Late Delivery,7,Yes,4,No,Prime,East
+T0108,27-02-2026,Pooja,Returns,Call,Login Issue,59,Yes,3,No,Prime,East
+T0109,07-03-2026,Neha,Payments,Email,Refund,50,No,4,No,Regular,East
+T0110,14-04-2026,Rahul,Delivery,Call,Refund,55,Yes,2,No,Regular,East
+T0111,05-01-2026,Priya,Returns,Chat,Late Delivery,36,No,1,Yes,Regular,South
+T0112,04-03-2026,Neha,Returns,Email,Payment Failed,6,Yes,4,No,Regular,West
+T0113,26-01-2026,Rohit,Payments,Call,Wrong Item,54,Yes,2,Yes,Regular,East
+T0114,10-03-2026,Priya,Account,Call,Login Issue,44,Yes,2,No,Prime,West
+T0115,16-01-2026,Rohit,Delivery,Call,Payment Failed,20,Yes,2,No,Prime,North
+T0116,25-01-2026,Rohit,Payments,Chat,Wrong Item,58,No,4,No,Prime,South
+T0117,28-04-2026,Amit,Payments,Call,Payment Failed,17,Yes,2,No,Prime,West
+T0118,24-01-2026,Pooja,Payments,Chat,Payment Failed,51,Yes,2,No,Regular,East
+T0119,14-01-2026,Pooja,Payments,Chat,Refund,26,No,2,No,Prime,West
+T0120,08-01-2026,Priya,Payments,Email,Login Issue,8,No,2,No,Regular,North
+T0121,02-03-2026,Rahul,Delivery,Call,Login Issue,7,No,2,Yes,Regular,East
+T0122,11-03-2026,Rahul,Returns,Call,Wrong Item,24,Yes,1,Yes,Regular,North
+T0123,15-02-2026,Neha,Account,Chat,Payment Failed,46,Yes,1,Yes,Regular,North
+T0124,06-02-2026,Priya,Account,Email,Wrong Item,13,Yes,4,Yes,Regular,West
+T0125,12-04-2026,Sneha,Payments,Call,Wrong Item,32,Yes,3,No,Prime,West
+T0126,06-04-2026,Karan,Returns,Email,Wrong Item,37,Yes,2,Yes,Prime,South
+T0127,20-03-2026,Karan,Returns,Email,Late Delivery,45,Yes,3,No,Regular,East
+T0128,04-02-2026,Priya,Tech Support,Chat,Login Issue,19,No,4,No,Regular,North
+T0129,29-04-2026,Sneha,Delivery,Email,Wrong Item,39,No,3,No,Prime,South
+T0130,05-01-2026,Rohit,Returns,Chat,Wrong Item,39,Yes,4,No,Prime,North
+T0131,07-02-2026,Rohit,Account,Call,Refund,42,Yes,4,No,Regular,West
+T0132,27-03-2026,Priya,Delivery,Call,Login Issue,26,No,3,Yes,Prime,North
+T0133,30-04-2026,Neha,Payments,Chat,Login Issue,53,Yes,3,No,Regular,North
+T0134,12-01-2026,Pooja,Delivery,Call,Refund,42,No,4,No,Regular,North
+T0135,06-04-2026,Karan,Account,Email,Refund,50,Yes,2,No,Prime,North
+T0136,23-03-2026,Rahul,Account,Email,Account Locked,21,Yes,2,No,Prime,East
+T0137,02-04-2026,Sneha,Delivery,Call,Account Locked,58,Yes,1,Yes,Prime,South
+T0138,09-04-2026,Karan,Delivery,Chat,Refund,28,No,2,No,Prime,South
+T0139,10-01-2026,Rahul,Tech Support,Chat,Account Locked,13,No,3,No,Prime,South
+T0140,02-02-2026,Rahul,Payments,Call,Login Issue,12,Yes,5,Yes,Regular,South
+T0141,14-03-2026,Rohit,Delivery,Chat,Login Issue,11,Yes,4,No,Prime,West
+T0142,23-01-2026,Amit,Tech Support,Chat,Account Locked,10,Yes,5,Yes,Prime,North
+T0143,29-01-2026,Rahul,Account,Email,Payment Failed,39,No,3,No,Prime,West
+T0144,13-02-2026,Sneha,Tech Support,Call,Account Locked,55,No,4,No,Regular,East
+T0145,01-01-2026,Rohit,Delivery,Call,Late Delivery,7,Yes,5,No,Regular,West
+T0146,09-04-2026,Priya,Delivery,Chat,Account Locked,25,Yes,2,No,Prime,North
+T0147,29-04-2026,Rohit,Account,Chat,Wrong Item,43,Yes,2,No,Prime,South
+T0148,06-03-2026,Sneha,Returns,Call,Login Issue,41,No,3,No,Prime,West
+T0149,21-03-2026,Amit,Returns,Call,Wrong Item,46,Yes,4,No,Prime,North
+T0150,08-01-2026,Neha,Delivery,Chat,Wrong Item,43,No,3,No,Regular,West
+T0151,20-04-2026,Amit,Tech Support,Email,Login Issue,46,Yes,2,Yes,Prime,West
+T0152,14-02-2026,Rohit,Tech Support,Chat,Account Locked,25,No,3,Yes,Prime,South
+T0153,05-02-2026,Neha,Tech Support,Call,Wrong Item,56,No,4,No,Regular,East
+T0154,31-01-2026,Sneha,Tech Support,Email,Payment Failed,56,Yes,4,No,Prime,North
+T0155,08-04-2026,Rohit,Payments,Chat,Late Delivery,8,Yes,4,Yes,Prime,South
+T0156,19-04-2026,Pooja,Tech Support,Email,Wrong Item,24,Yes,3,No,Prime,West
+T0157,14-03-2026,Rahul,Payments,Chat,Account Locked,22,No,3,No,Regular,South
+T0158,15-01-2026,Priya,Account,Chat,Login Issue,12,Yes,4,No,Prime,North
+T0159,23-03-2026,Neha,Account,Call,Payment Failed,8,Yes,5,No,Regular,North
+T0160,14-03-2026,Neha,Account,Call,Login Issue,59,Yes,2,No,Regular,North
+T0161,13-02-2026,Pooja,Returns,Call,Late Delivery,56,No,3,No,Regular,West
+T0162,13-03-2026,Neha,Returns,Call,Late Delivery,57,Yes,2,No,Prime,West
+T0163,15-04-2026,Amit,Delivery,Call,Login Issue,50,No,2,No,Regular,South
+T0164,26-04-2026,Sneha,Tech Support,Chat,Wrong Item,45,No,4,No,Prime,East
+T0165,27-02-2026,Rohit,Account,Email,Payment Failed,19,Yes,3,No,Prime,North
+T0166,26-04-2026,Neha,Returns,Email,Wrong Item,42,Yes,2,No,Prime,North
+T0167,23-02-2026,Amit,Payments,Chat,Wrong Item,11,Yes,4,Yes,Regular,East
+T0168,18-02-2026,Amit,Payments,Chat,Login Issue,36,Yes,4,No,Prime,North
+T0169,07-04-2026,Rahul,Payments,Email,Late Delivery,29,No,2,Yes,Regular,North
+T0170,07-04-2026,Neha,Tech Support,Chat,Payment Failed,54,No,2,No,Prime,East
+T0171,27-03-2026,Pooja,Payments,Email,Late Delivery,25,Yes,2,No,Regular,West
+T0172,21-01-2026,Sneha,Returns,Call,Refund,25,Yes,2,No,Prime,North
+T0173,03-03-2026,Priya,Account,Chat,Wrong Item,46,Yes,3,No,Prime,North
+T0174,05-04-2026,Priya,Payments,Email,Login Issue,10,Yes,4,No,Regular,East
+T0175,01-02-2026,Karan,Tech Support,Email,Login Issue,58,Yes,2,No,Regular,South
+T0176,20-03-2026,Pooja,Account,Email,Account Locked,44,No,4,No,Regular,South
+T0177,15-02-2026,Karan,Returns,Chat,Login Issue,16,No,4,No,Prime,South
+T0178,05-02-2026,Pooja,Delivery,Chat,Payment Failed,34,Yes,3,No,Prime,East
+T0179,27-02-2026,Sneha,Returns,Email,Payment Failed,11,Yes,5,Yes,Regular,West
+T0180,13-02-2026,Pooja,Tech Support,Chat,Late Delivery,31,No,2,Yes,Regular,West
+T0181,20-04-2026,Neha,Payments,Email,Wrong Item,48,Yes,3,No,Prime,North
+T0182,28-01-2026,Sneha,Delivery,Call,Late Delivery,22,Yes,2,No,Regular,South
+T0183,21-01-2026,Pooja,Tech Support,Call,Payment Failed,14,Yes,5,No,Regular,West
+T0184,04-02-2026,Neha,Delivery,Email,Wrong Item,48,Yes,4,No,Prime,East
+T0185,27-04-2026,Sneha,Account,Call,Wrong Item,15,Yes,3,Yes,Regular,West
+T0186,07-04-2026,Neha,Delivery,Call,Payment Failed,43,Yes,2,No,Prime,East
+T0187,15-03-2026,Pooja,Returns,Chat,Login Issue,48,Yes,1,Yes,Regular,North
+T0188,24-03-2026,Sneha,Tech Support,Chat,Late Delivery,17,Yes,2,No,Regular,East
+T0189,29-04-2026,Rohit,Account,Chat,Refund,42,Yes,3,No,Regular,South
+T0190,18-03-2026,Pooja,Payments,Chat,Late Delivery,6,Yes,5,No,Regular,East
+T0191,17-03-2026,Rohit,Account,Chat,Wrong Item,24,No,2,No,Regular,South
+T0192,18-02-2026,Karan,Account,Chat,Account Locked,45,Yes,2,No,Regular,South
+T0193,09-01-2026,Neha,Account,Email,Late Delivery,53,No,2,No,Prime,East
+T0194,04-01-2026,Karan,Tech Support,Call,Login Issue,32,Yes,4,No,Prime,North
+T0195,08-02-2026,Rahul,Account,Email,Account Locked,18,Yes,3,No,Regular,North
+T0196,09-04-2026,Pooja,Tech Support,Chat,Account Locked,21,No,3,No,Regular,East
+T0197,18-01-2026,Sneha,Payments,Email,Payment Failed,22,Yes,4,No,Regular,West
+T0198,19-04-2026,Amit,Account,Call,Late Delivery,5,Yes,5,No,Regular,South
+T0199,08-01-2026,Neha,Delivery,Call,Login Issue,60,Yes,2,No,Regular,North
+T0200,09-02-2026,Neha,Returns,Chat,Payment Failed,30,Yes,3,No,Prime,West
+T0201,25-01-2026,Priya,Returns,Chat,Login Issue,41,Yes,4,No,Regular,North
+T0202,04-04-2026,Amit,Payments,Chat,Refund,27,No,1,Yes,Prime,North
+T0203,06-02-2026,Karan,Tech Support,Email,Wrong Item,31,Yes,2,Yes,Prime,North
+T0204,15-01-2026,Pooja,Payments,Call,Payment Failed,46,Yes,3,No,Prime,North
+T0205,29-01-2026,Rahul,Tech Support,Email,Late Delivery,47,Yes,4,No,Regular,North
+T0206,21-02-2026,Rahul,Account,Email,Account Locked,45,Yes,3,No,Prime,North
+T0207,26-01-2026,Pooja,Delivery,Email,Late Delivery,45,Yes,1,Yes,Prime,North
+T0208,17-03-2026,Pooja,Payments,Chat,Account Locked,21,Yes,1,Yes,Regular,South
+T0209,18-03-2026,Rohit,Tech Support,Call,Refund,19,Yes,4,No,Regular,South
+T0210,25-03-2026,Sneha,Payments,Call,Payment Failed,21,No,4,No,Regular,South
+T0211,02-03-2026,Amit,Returns,Chat,Wrong Item,40,Yes,3,Yes,Prime,East
+T0212,05-04-2026,Pooja,Tech Support,Chat,Refund,57,Yes,4,No,Regular,South
+T0213,26-01-2026,Priya,Account,Call,Wrong Item,20,Yes,4,No,Regular,North
+T0214,14-04-2026,Sneha,Returns,Call,Late Delivery,32,No,4,No,Regular,East
+T0215,18-04-2026,Sneha,Delivery,Chat,Wrong Item,39,Yes,3,No,Prime,North
+T0216,08-01-2026,Rohit,Account,Call,Payment Failed,53,No,3,No,Prime,North
+T0217,11-04-2026,Rahul,Account,Chat,Account Locked,22,Yes,4,No,Regular,North
+T0218,25-04-2026,Amit,Payments,Call,Wrong Item,44,Yes,3,No,Regular,South
+T0219,08-02-2026,Rahul,Payments,Call,Payment Failed,53,Yes,4,No,Prime,North
+T0220,13-03-2026,Rahul,Delivery,Chat,Payment Failed,6,Yes,5,No,Regular,West
+T0221,02-01-2026,Rahul,Returns,Email,Login Issue,39,No,3,No,Prime,West
+T0222,06-03-2026,Rohit,Delivery,Chat,Refund,6,No,1,Yes,Regular,West
+T0223,19-02-2026,Karan,Payments,Chat,Account Locked,39,Yes,2,No,Regular,North
+T0224,19-04-2026,Rahul,Returns,Chat,Refund,7,No,3,No,Prime,West
+T0225,11-04-2026,Rohit,Account,Call,Payment Failed,13,Yes,5,No,Prime,West
+T0226,31-03-2026,Pooja,Account,Chat,Payment Failed,28,Yes,2,Yes,Prime,East
+T0227,28-02-2026,Rohit,Account,Call,Login Issue,26,Yes,3,No,Prime,South
+T0228,09-02-2026,Rohit,Delivery,Call,Late Delivery,53,Yes,4,No,Prime,North
+T0229,25-03-2026,Priya,Payments,Call,Refund,25,Yes,4,No,Regular,East
+T0230,25-02-2026,Amit,Delivery,Call,Payment Failed,17,Yes,2,No,Prime,North
+T0231,20-01-2026,Karan,Tech Support,Chat,Late Delivery,17,Yes,3,No,Prime,East
+T0232,27-03-2026,Pooja,Account,Email,Payment Failed,26,Yes,2,No,Prime,East
+T0233,01-02-2026,Rohit,Returns,Email,Late Delivery,32,No,4,No,Prime,East
+T0234,09-04-2026,Karan,Payments,Email,Payment Failed,46,Yes,2,No,Prime,North
+T0235,15-01-2026,Amit,Tech Support,Chat,Wrong Item,33,Yes,3,Yes,Regular,East
+T0236,10-04-2026,Rahul,Delivery,Email,Refund,23,Yes,4,No,Prime,South
+T0237,10-02-2026,Karan,Returns,Call,Login Issue,19,Yes,2,No,Prime,East
+T0238,28-01-2026,Pooja,Delivery,Email,Login Issue,50,Yes,4,No,Regular,South
+T0239,01-04-2026,Pooja,Account,Email,Wrong Item,15,Yes,4,No,Regular,East
+T0240,14-02-2026,Sneha,Returns,Email,Account Locked,20,Yes,3,No,Regular,South
+T0241,20-01-2026,Neha,Account,Call,Login Issue,30,Yes,4,No,Prime,South
+T0242,12-04-2026,Rahul,Account,Call,Late Delivery,21,Yes,1,Yes,Regular,North
+T0243,23-02-2026,Priya,Tech Support,Chat,Wrong Item,30,Yes,2,No,Regular,South
+T0244,02-02-2026,Amit,Delivery,Email,Login Issue,18,Yes,2,Yes,Prime,West
+T0245,17-04-2026,Neha,Payments,Call,Payment Failed,24,Yes,3,No,Regular,North
+T0246,14-03-2026,Rahul,Account,Chat,Refund,8,Yes,4,Yes,Prime,East
+T0247,26-01-2026,Sneha,Returns,Call,Refund,53,Yes,2,Yes,Regular,South
+T0248,17-02-2026,Amit,Delivery,Email,Payment Failed,29,Yes,4,No,Prime,East
+T0249,15-04-2026,Rahul,Tech Support,Email,Account Locked,38,No,1,Yes,Prime,East
+T0250,02-02-2026,Neha,Returns,Call,Late Delivery,44,Yes,3,No,Prime,East
+T0251,20-02-2026,Karan,Delivery,Chat,Account Locked,20,No,4,No,Prime,West
+T0252,02-01-2026,Karan,Account,Call,Login Issue,57,Yes,2,No,Regular,South
+T0253,21-02-2026,Rahul,Delivery,Chat,Account Locked,57,Yes,1,Yes,Prime,North
+T0254,14-04-2026,Priya,Delivery,Chat,Login Issue,10,No,4,No,Prime,North
+T0255,07-04-2026,Pooja,Delivery,Call,Login Issue,17,No,3,No,Prime,South
+T0256,13-01-2026,Karan,Delivery,Email,Late Delivery,14,Yes,5,No,Regular,South
+T0257,11-01-2026,Karan,Returns,Chat,Payment Failed,18,Yes,2,No,Regular,South
+T0258,12-01-2026,Amit,Tech Support,Chat,Refund,15,Yes,4,No,Regular,West
+T0259,18-01-2026,Karan,Tech Support,Email,Wrong Item,36,Yes,2,No,Regular,South
+T0260,28-01-2026,Priya,Returns,Email,Payment Failed,33,Yes,2,No,Regular,North
+T0261,22-01-2026,Pooja,Payments,Email,Refund,46,No,3,No,Prime,North
+T0262,01-04-2026,Rahul,Returns,Call,Wrong Item,16,Yes,2,No,Regular,South
+T0263,02-02-2026,Priya,Payments,Chat,Payment Failed,5,Yes,5,No,Regular,North
+T0264,03-03-2026,Karan,Tech Support,Email,Refund,54,Yes,3,No,Prime,South
+T0265,16-01-2026,Priya,Returns,Call,Payment Failed,55,Yes,1,Yes,Regular,West
+T0266,15-03-2026,Rohit,Delivery,Chat,Late Delivery,42,Yes,2,No,Prime,North
+T0267,28-01-2026,Rahul,Tech Support,Email,Late Delivery,54,Yes,3,Yes,Prime,West
+T0268,10-04-2026,Pooja,Returns,Email,Wrong Item,48,Yes,2,Yes,Regular,East
+T0269,17-04-2026,Sneha,Tech Support,Chat,Refund,7,Yes,5,No,Prime,South
+T0270,27-02-2026,Priya,Payments,Call,Wrong Item,7,Yes,5,No,Prime,North
+T0271,04-03-2026,Karan,Account,Call,Late Delivery,28,Yes,2,No,Regular,North
+T0272,25-02-2026,Karan,Payments,Email,Refund,44,No,3,No,Prime,West
+T0273,05-04-2026,Rohit,Delivery,Chat,Wrong Item,31,Yes,1,Yes,Regular,South
+T0274,31-01-2026,Rahul,Returns,Chat,Payment Failed,19,Yes,4,No,Regular,South
+T0275,31-03-2026,Rahul,Delivery,Call,Account Locked,33,Yes,3,No,Prime,South
+T0276,07-03-2026,Priya,Account,Chat,Payment Failed,42,Yes,4,No,Regular,North
+T0277,01-05-2026,Rohit,Payments,Call,Account Locked,56,No,2,No,Regular,East
+T0278,03-04-2026,Pooja,Returns,Email,Payment Failed,51,Yes,3,No,Prime,North
+T0279,04-02-2026,Rahul,Account,Email,Login Issue,49,Yes,2,No,Prime,South
+T0280,25-01-2026,Priya,Tech Support,Call,Wrong Item,22,Yes,4,No,Regular,South
+T0281,01-04-2026,Pooja,Account,Chat,Late Delivery,53,Yes,3,No,Regular,West
+T0282,09-01-2026,Priya,Payments,Call,Refund,31,Yes,2,No,Prime,North
+T0283,30-04-2026,Rohit,Account,Email,Late Delivery,39,Yes,1,Yes,Prime,South
+T0284,04-01-2026,Rohit,Tech Support,Chat,Login Issue,19,Yes,2,No,Regular,West
+T0285,11-03-2026,Amit,Account,Chat,Wrong Item,36,No,2,Yes,Regular,North
+T0286,08-01-2026,Sneha,Tech Support,Email,Wrong Item,54,Yes,2,Yes,Prime,East
+T0287,04-02-2026,Amit,Payments,Email,Account Locked,50,Yes,2,No,Regular,East
+T0288,06-03-2026,Priya,Returns,Call,Late Delivery,42,No,2,Yes,Prime,South
+T0289,20-01-2026,Rahul,Delivery,Email,Wrong Item,22,No,2,No,Prime,East
+T0290,10-01-2026,Neha,Account,Chat,Account Locked,6,Yes,5,No,Regular,East
+T0291,13-03-2026,Amit,Delivery,Call,Account Locked,8,Yes,4,No,Prime,West
+T0292,25-03-2026,Neha,Account,Chat,Wrong Item,22,Yes,4,No,Regular,South
+T0293,02-02-2026,Pooja,Delivery,Email,Account Locked,16,Yes,4,No,Prime,North
+T0294,29-04-2026,Rahul,Account,Call,Account Locked,13,Yes,4,No,Regular,East
+T0295,03-03-2026,Priya,Returns,Chat,Late Delivery,6,Yes,5,No,Regular,North
+T0296,13-03-2026,Karan,Tech Support,Call,Account Locked,19,Yes,2,Yes,Prime,South
+T0297,02-04-2026,Rahul,Tech Support,Call,Refund,56,Yes,3,No,Regular,East
+T0298,25-04-2026,Rahul,Delivery,Email,Payment Failed,22,No,3,No,Prime,East
+T0299,14-03-2026,Rahul,Account,Email,Account Locked,16,No,2,No,Regular,South
+T0300,19-01-2026,Pooja,Delivery,Call,Refund,38,Yes,4,No,Prime,South
+T0301,16-04-2026,Sneha,Returns,Email,Payment Failed,22,Yes,2,No,Regular,South
+T0302,29-01-2026,Priya,Account,Email,Wrong Item,49,Yes,2,No,Prime,West
+T0303,01-04-2026,Neha,Payments,Chat,Login Issue,39,No,2,No,Prime,North
+T0304,22-01-2026,Priya,Returns,Email,Late Delivery,17,Yes,3,No,Prime,North
+T0305,07-01-2026,Pooja,Returns,Email,Wrong Item,43,Yes,3,No,Regular,West
+T0306,02-02-2026,Pooja,Payments,Email,Login Issue,52,No,2,No,Regular,East
+T0307,16-04-2026,Amit,Returns,Call,Wrong Item,20,No,4,No,Regular,South
+T0308,15-03-2026,Neha,Returns,Call,Login Issue,15,Yes,1,Yes,Prime,North
+T0309,09-04-2026,Neha,Delivery,Call,Late Delivery,34,Yes,2,No,Regular,North
+T0310,02-04-2026,Priya,Payments,Chat,Late Delivery,42,Yes,3,No,Prime,South
+T0311,23-01-2026,Rahul,Returns,Chat,Refund,10,No,4,No,Prime,West
+T0312,17-02-2026,Rohit,Payments,Chat,Account Locked,57,Yes,4,No,Prime,South
+T0313,15-01-2026,Karan,Returns,Email,Account Locked,42,Yes,1,Yes,Regular,East
+T0314,01-04-2026,Rohit,Account,Email,Payment Failed,50,No,4,No,Regular,West
+T0315,04-01-2026,Pooja,Tech Support,Chat,Refund,59,Yes,2,No,Regular,West
+T0316,03-01-2026,Amit,Payments,Email,Wrong Item,10,Yes,4,No,Prime,South
+T0317,07-01-2026,Priya,Payments,Email,Account Locked,33,Yes,3,No,Regular,South
+T0318,10-02-2026,Priya,Payments,Chat,Account Locked,51,Yes,4,No,Regular,East
+T0319,23-03-2026,Rohit,Returns,Email,Payment Failed,57,Yes,2,No,Prime,East
+T0320,16-02-2026,Rohit,Payments,Email,Wrong Item,21,Yes,3,No,Regular,East
+T0321,26-01-2026,Rahul,Returns,Call,Payment Failed,53,Yes,3,No,Regular,West
+T0322,22-03-2026,Priya,Tech Support,Email,Account Locked,35,Yes,4,No,Regular,South
+T0323,24-03-2026,Neha,Payments,Call,Login Issue,48,Yes,2,No,Regular,South
+T0324,30-03-2026,Neha,Payments,Email,Login Issue,39,Yes,2,No,Prime,East
+T0325,07-03-2026,Pooja,Account,Chat,Refund,34,No,3,No,Regular,South
+T0326,21-01-2026,Sneha,Account,Chat,Late Delivery,44,Yes,3,No,Prime,South
+T0327,27-02-2026,Priya,Returns,Email,Account Locked,25,No,4,No,Regular,North
+T0328,02-04-2026,Rahul,Account,Email,Late Delivery,20,Yes,3,No,Regular,South
+T0329,28-02-2026,Pooja,Tech Support,Call,Login Issue,39,No,2,No,Regular,North
+T0330,08-02-2026,Sneha,Returns,Email,Payment Failed,43,No,3,No,Regular,South
+T0331,09-03-2026,Pooja,Account,Call,Login Issue,16,Yes,4,No,Prime,North
+T0332,14-01-2026,Sneha,Payments,Email,Refund,9,Yes,4,No,Prime,North
+T0333,06-01-2026,Pooja,Payments,Email,Account Locked,52,Yes,2,No,Prime,West
+T0334,23-01-2026,Priya,Payments,Chat,Payment Failed,39,Yes,4,No,Regular,West
+T0335,04-01-2026,Rohit,Account,Chat,Wrong Item,7,Yes,4,No,Prime,West
+T0336,08-02-2026,Rahul,Payments,Chat,Payment Failed,36,Yes,4,No,Prime,West
+T0337,30-01-2026,Amit,Returns,Call,Login Issue,39,Yes,3,No,Regular,South
+T0338,27-02-2026,Pooja,Returns,Chat,Login Issue,54,Yes,1,Yes,Prime,South
+T0339,15-01-2026,Amit,Payments,Call,Login Issue,35,Yes,3,No,Regular,East
+T0340,20-01-2026,Priya,Payments,Email,Refund,60,Yes,2,Yes,Prime,North
+T0341,10-02-2026,Sneha,Account,Chat,Payment Failed,40,Yes,2,No,Regular,South
+T0342,08-03-2026,Rohit,Tech Support,Call,Payment Failed,13,No,3,No,Prime,South
+T0343,10-04-2026,Priya,Delivery,Call,Late Delivery,22,Yes,4,No,Regular,North
+T0344,21-01-2026,Karan,Delivery,Chat,Login Issue,49,Yes,4,No,Prime,North
+T0345,21-04-2026,Rohit,Tech Support,Email,Late Delivery,29,Yes,4,No,Regular,East
+T0346,14-03-2026,Karan,Returns,Chat,Wrong Item,10,Yes,5,No,Regular,South
+T0347,04-04-2026,Neha,Returns,Email,Account Locked,38,Yes,3,No,Regular,South
+T0348,20-04-2026,Karan,Payments,Chat,Payment Failed,37,No,2,Yes,Prime,East
+T0349,16-03-2026,Rahul,Returns,Chat,Late Delivery,13,Yes,4,Yes,Prime,East
+T0350,13-04-2026,Sneha,Delivery,Email,Login Issue,25,Yes,1,Yes,Prime,East
+T0351,06-04-2026,Sneha,Tech Support,Email,Login Issue,44,No,4,No,Prime,North
+T0352,15-04-2026,Neha,Tech Support,Email,Account Locked,57,Yes,2,Yes,Prime,North
+T0353,16-02-2026,Amit,Returns,Email,Payment Failed,23,Yes,3,Yes,Prime,South
+T0354,20-04-2026,Sneha,Payments,Chat,Wrong Item,13,Yes,4,No,Regular,West
+T0355,16-04-2026,Neha,Account,Call,Wrong Item,18,Yes,4,No,Regular,South
+T0356,20-04-2026,Neha,Account,Call,Refund,21,Yes,2,No,Prime,East
+T0357,25-03-2026,Amit,Returns,Chat,Late Delivery,48,Yes,1,Yes,Prime,South
+T0358,16-04-2026,Neha,Delivery,Call,Late Delivery,54,No,2,No,Regular,North
+T0359,13-04-2026,Rohit,Payments,Call,Late Delivery,10,Yes,4,No,Prime,North
+T0360,04-03-2026,Rohit,Returns,Call,Refund,25,Yes,4,No,Regular,West
+T0361,05-04-2026,Priya,Delivery,Chat,Late Delivery,56,Yes,2,No,Prime,South
+T0362,03-02-2026,Priya,Payments,Call,Account Locked,11,Yes,4,No,Regular,North
+T0363,10-01-2026,Sneha,Account,Email,Payment Failed,46,Yes,2,No,Prime,South
+T0364,15-03-2026,Rohit,Payments,Call,Account Locked,44,Yes,3,No,Prime,North
+T0365,10-02-2026,Karan,Payments,Chat,Account Locked,41,No,4,No,Regular,North
+T0366,18-04-2026,Sneha,Returns,Email,Payment Failed,33,Yes,2,No,Prime,West
+T0367,19-02-2026,Amit,Tech Support,Call,Refund,36,Yes,3,No,Regular,North
+T0368,31-03-2026,Sneha,Delivery,Email,Account Locked,52,Yes,2,No,Prime,South
+T0369,11-02-2026,Amit,Delivery,Chat,Payment Failed,46,Yes,2,Yes,Prime,West
+T0370,18-03-2026,Amit,Account,Call,Wrong Item,22,No,2,No,Prime,South
+T0371,18-03-2026,Pooja,Account,Call,Refund,16,Yes,4,No,Regular,South
+T0372,25-02-2026,Karan,Delivery,Chat,Refund,53,Yes,4,No,Prime,North
+T0373,20-02-2026,Priya,Tech Support,Email,Payment Failed,20,Yes,3,No,Regular,North
+T0374,16-02-2026,Amit,Delivery,Chat,Login Issue,6,No,4,No,Prime,West
+T0375,01-05-2026,Rahul,Payments,Chat,Late Delivery,13,Yes,5,Yes,Prime,North
+T0376,29-04-2026,Priya,Tech Support,Chat,Account Locked,28,Yes,3,No,Prime,West
+T0377,27-02-2026,Pooja,Returns,Chat,Account Locked,34,Yes,4,No,Regular,East
+T0378,05-02-2026,Priya,Account,Call,Payment Failed,57,Yes,2,Yes,Regular,North
+T0379,31-01-2026,Priya,Returns,Email,Payment Failed,33,Yes,2,No,Prime,East
+T0380,08-04-2026,Amit,Returns,Email,Late Delivery,25,Yes,2,Yes,Regular,North
+T0381,07-02-2026,Karan,Returns,Email,Login Issue,19,No,4,No,Prime,East
+T0382,04-04-2026,Priya,Returns,Call,Wrong Item,27,Yes,3,No,Prime,West
+T0383,18-02-2026,Amit,Account,Chat,Refund,22,No,2,No,Regular,West
+T0384,10-04-2026,Pooja,Tech Support,Call,Payment Failed,10,Yes,5,No,Regular,North
+T0385,05-04-2026,Pooja,Payments,Email,Login Issue,51,Yes,2,No,Prime,North
+T0386,01-04-2026,Neha,Tech Support,Chat,Late Delivery,31,Yes,2,Yes,Prime,South
+T0387,11-01-2026,Rahul,Payments,Email,Wrong Item,58,Yes,4,No,Prime,South
+T0388,23-02-2026,Amit,Account,Chat,Login Issue,21,Yes,1,Yes,Prime,West
+T0389,05-01-2026,Pooja,Returns,Call,Late Delivery,33,No,2,No,Prime,West
+T0390,18-04-2026,Karan,Payments,Call,Account Locked,39,Yes,4,No,Regular,North
+T0391,09-02-2026,Sneha,Delivery,Email,Payment Failed,25,No,3,No,Prime,South
+T0392,14-02-2026,Amit,Returns,Call,Account Locked,32,Yes,2,No,Regular,North
+T0393,03-04-2026,Amit,Payments,Email,Login Issue,51,Yes,4,No,Prime,West
+T0394,06-03-2026,Priya,Account,Chat,Login Issue,37,No,3,No,Regular,South
+T0395,20-02-2026,Amit,Tech Support,Email,Account Locked,54,Yes,2,No,Regular,West
+T0396,21-01-2026,Priya,Payments,Chat,Wrong Item,51,No,3,No,Prime,East
+T0397,20-02-2026,Rahul,Returns,Email,Refund,44,No,2,No,Regular,North
+T0398,15-03-2026,Amit,Payments,Call,Refund,39,Yes,2,No,Regular,West
+T0399,01-01-2026,Rahul,Delivery,Chat,Account Locked,31,Yes,3,No,Regular,East
+T0400,08-04-2026,Rohit,Returns,Chat,Late Delivery,50,No,2,No,Regular,East
+T0401,05-01-2026,Pooja,Payments,Email,Login Issue,52,Yes,2,No,Prime,South
+T0402,05-03-2026,Neha,Account,Call,Account Locked,44,Yes,4,No,Prime,West
+T0403,18-04-2026,Sneha,Delivery,Call,Account Locked,41,Yes,3,Yes,Regular,West
+T0404,01-02-2026,Rohit,Account,Call,Late Delivery,11,No,2,Yes,Regular,East
+T0405,27-01-2026,Karan,Account,Chat,Account Locked,17,No,2,No,Regular,South
+T0406,27-01-2026,Karan,Payments,Call,Late Delivery,60,Yes,3,No,Regular,North
+T0407,18-04-2026,Pooja,Delivery,Call,Payment Failed,37,Yes,4,No,Prime,North
+T0408,19-01-2026,Rahul,Account,Email,Login Issue,30,Yes,3,No,Prime,East
+T0409,07-01-2026,Priya,Account,Email,Payment Failed,49,No,2,No,Regular,North
+T0410,28-02-2026,Sneha,Payments,Chat,Refund,28,Yes,2,Yes,Regular,East
+T0411,14-02-2026,Rohit,Delivery,Chat,Refund,44,Yes,3,No,Regular,South
+T0412,23-03-2026,Sneha,Tech Support,Chat,Refund,59,Yes,2,No,Regular,South
+T0413,22-01-2026,Sneha,Tech Support,Call,Login Issue,27,No,3,No,Regular,East
+T0414,10-03-2026,Rohit,Returns,Call,Account Locked,11,Yes,4,Yes,Prime,North
+T0415,09-01-2026,Pooja,Tech Support,Email,Login Issue,57,Yes,3,No,Prime,East
+T0416,06-04-2026,Neha,Tech Support,Call,Login Issue,23,Yes,2,No,Regular,North
+T0417,16-03-2026,Sneha,Payments,Call,Refund,55,Yes,4,No,Prime,East
+T0418,17-02-2026,Rohit,Tech Support,Chat,Refund,31,Yes,2,No,Prime,West
+T0419,05-01-2026,Amit,Payments,Email,Wrong Item,9,Yes,5,No,Prime,East
+T0420,02-02-2026,Priya,Tech Support,Call,Wrong Item,44,Yes,3,No,Prime,North
+T0421,26-04-2026,Karan,Tech Support,Chat,Payment Failed,46,Yes,4,No,Regular,East
+T0422,27-02-2026,Neha,Tech Support,Call,Payment Failed,41,Yes,3,No,Regular,South
+T0423,12-04-2026,Neha,Returns,Call,Wrong Item,30,No,2,No,Prime,North
+T0424,07-04-2026,Priya,Returns,Email,Login Issue,23,No,4,No,Prime,South
+T0425,25-02-2026,Sneha,Account,Email,Refund,55,No,3,No,Regular,East
+T0426,31-01-2026,Rohit,Returns,Call,Login Issue,13,Yes,4,No,Prime,East
+T0427,27-02-2026,Karan,Payments,Call,Wrong Item,12,No,4,No,Regular,South
+T0428,19-02-2026,Sneha,Returns,Email,Account Locked,29,Yes,3,No,Regular,North
+T0429,06-01-2026,Sneha,Delivery,Chat,Account Locked,31,Yes,2,Yes,Regular,North
+T0430,12-03-2026,Neha,Tech Support,Email,Late Delivery,31,Yes,3,No,Prime,North
+T0431,22-03-2026,Pooja,Delivery,Chat,Refund,8,Yes,4,No,Prime,East
+T0432,22-01-2026,Neha,Returns,Call,Account Locked,42,Yes,3,No,Regular,South
+T0433,17-01-2026,Amit,Payments,Chat,Account Locked,24,Yes,3,No,Prime,South
+T0434,04-01-2026,Rahul,Payments,Email,Payment Failed,12,Yes,5,No,Regular,South
+T0435,04-04-2026,Karan,Payments,Email,Wrong Item,43,No,4,No,Regular,North
+T0436,26-01-2026,Rohit,Delivery,Chat,Late Delivery,12,Yes,5,No,Regular,West
+T0437,14-02-2026,Amit,Returns,Chat,Wrong Item,17,Yes,3,Yes,Regular,North
+T0438,19-03-2026,Rohit,Tech Support,Email,Wrong Item,39,No,3,No,Prime,North
+T0439,07-01-2026,Karan,Returns,Call,Refund,52,No,3,No,Prime,North
+T0440,24-01-2026,Karan,Returns,Chat,Late Delivery,25,Yes,2,No,Regular,West
+T0441,22-04-2026,Sneha,Returns,Chat,Payment Failed,32,Yes,2,No,Regular,North
+T0442,30-01-2026,Neha,Delivery,Chat,Payment Failed,32,Yes,3,Yes,Regular,North
+T0443,13-01-2026,Rahul,Payments,Call,Refund,54,Yes,2,Yes,Regular,North
+T0444,08-04-2026,Amit,Account,Email,Late Delivery,47,Yes,2,No,Regular,North
+T0445,18-04-2026,Priya,Payments,Email,Refund,15,Yes,3,No,Regular,North
+T0446,07-04-2026,Amit,Payments,Email,Account Locked,7,Yes,5,No,Prime,East
+T0447,04-01-2026,Pooja,Account,Email,Account Locked,54,Yes,2,No,Prime,North
+T0448,09-01-2026,Sneha,Delivery,Chat,Refund,8,Yes,4,No,Prime,West
+T0449,09-02-2026,Rohit,Tech Support,Call,Refund,40,Yes,3,No,Prime,East
+T0450,19-03-2026,Karan,Tech Support,Email,Account Locked,57,Yes,3,No,Regular,East
+T0451,02-01-2026,Rahul,Account,Email,Late Delivery,35,No,2,No,Prime,North
+T0452,21-04-2026,Rohit,Returns,Chat,Wrong Item,47,Yes,2,No,Regular,South
+T0453,22-01-2026,Priya,Returns,Email,Refund,40,Yes,2,No,Prime,West
+T0454,04-01-2026,Neha,Account,Email,Wrong Item,42,Yes,3,No,Regular,East
+T0455,23-03-2026,Amit,Account,Chat,Late Delivery,47,Yes,3,No,Regular,West
+T0456,31-03-2026,Karan,Payments,Call,Refund,20,Yes,4,No,Prime,South
+T0457,22-03-2026,Pooja,Payments,Call,Refund,48,Yes,2,No,Regular,West
+T0458,29-03-2026,Sneha,Account,Call,Late Delivery,25,Yes,3,Yes,Prime,West
+T0459,09-03-2026,Neha,Tech Support,Chat,Payment Failed,55,Yes,2,No,Regular,South
+T0460,30-01-2026,Rohit,Delivery,Call,Login Issue,31,Yes,3,No,Prime,North
+T0461,15-01-2026,Sneha,Payments,Email,Payment Failed,10,Yes,4,No,Prime,West
+T0462,10-04-2026,Priya,Returns,Email,Login Issue,50,Yes,2,No,Prime,South
+T0463,15-02-2026,Amit,Delivery,Email,Refund,25,Yes,4,No,Regular,East
+T0464,05-03-2026,Rahul,Returns,Call,Account Locked,11,Yes,5,Yes,Regular,South
+T0465,10-01-2026,Amit,Tech Support,Email,Account Locked,42,Yes,1,Yes,Regular,West
+T0466,03-01-2026,Karan,Account,Call,Login Issue,41,Yes,1,Yes,Regular,East
+T0467,05-02-2026,Rahul,Delivery,Chat,Login Issue,54,Yes,2,No,Regular,South
+T0468,05-04-2026,Neha,Tech Support,Chat,Payment Failed,15,Yes,4,No,Prime,East
+T0469,30-04-2026,Amit,Account,Call,Refund,37,No,4,No,Prime,West
+T0470,16-02-2026,Priya,Payments,Chat,Refund,51,No,3,No,Regular,East
+T0471,18-03-2026,Karan,Returns,Email,Login Issue,32,No,3,No,Prime,South
+T0472,10-03-2026,Amit,Delivery,Chat,Wrong Item,13,Yes,4,No,Prime,South
+T0473,30-01-2026,Sneha,Tech Support,Call,Wrong Item,26,Yes,4,No,Prime,North
+T0474,07-01-2026,Sneha,Returns,Chat,Wrong Item,14,Yes,4,No,Prime,North
+T0475,25-01-2026,Neha,Delivery,Email,Payment Failed,36,Yes,2,Yes,Prime,East
+T0476,24-03-2026,Karan,Payments,Chat,Login Issue,29,Yes,3,Yes,Regular,North
+T0477,30-01-2026,Rohit,Payments,Email,Late Delivery,31,Yes,4,No,Prime,West
+T0478,16-01-2026,Karan,Returns,Chat,Late Delivery,12,Yes,4,No,Regular,North
+T0479,13-01-2026,Rohit,Payments,Chat,Login Issue,19,Yes,4,No,Prime,North
+T0480,28-01-2026,Neha,Payments,Email,Payment Failed,42,Yes,4,No,Prime,East
+T0481,24-04-2026,Karan,Payments,Call,Late Delivery,46,Yes,2,No,Prime,South
+T0482,15-03-2026,Neha,Delivery,Email,Refund,40,Yes,2,Yes,Prime,North
+T0483,13-02-2026,Amit,Tech Support,Email,Wrong Item,54,Yes,2,No,Regular,East
+T0484,04-03-2026,Pooja,Delivery,Email,Wrong Item,60,Yes,3,No,Prime,South
+T0485,24-04-2026,Rahul,Delivery,Email,Late Delivery,57,Yes,2,No,Regular,South
+T0486,27-04-2026,Priya,Delivery,Chat,Account Locked,22,Yes,3,No,Prime,West
+T0487,15-01-2026,Rahul,Payments,Chat,Account Locked,60,Yes,2,No,Prime,North
+T0488,02-03-2026,Neha,Payments,Email,Payment Failed,41,No,2,No,Prime,East
+T0489,15-02-2026,Sneha,Delivery,Email,Refund,37,Yes,4,No,Regular,North
+T0490,19-02-2026,Rohit,Returns,Call,Account Locked,15,Yes,2,No,Regular,East
+T0491,18-01-2026,Amit,Tech Support,Chat,Wrong Item,39,Yes,2,Yes,Regular,South
+T0492,21-03-2026,Karan,Payments,Email,Account Locked,22,Yes,3,No,Regular,South
+T0493,15-04-2026,Rohit,Returns,Chat,Login Issue,57,Yes,3,Yes,Prime,North
+T0494,12-04-2026,Karan,Delivery,Chat,Wrong Item,15,Yes,2,No,Regular,East
+T0495,20-04-2026,Amit,Account,Call,Payment Failed,54,Yes,4,No,Regular,North
+T0496,17-03-2026,Pooja,Delivery,Chat,Late Delivery,59,Yes,3,No,Prime,West
+T0497,10-03-2026,Priya,Payments,Email,Account Locked,17,Yes,2,No,Prime,North
+T0498,17-02-2026,Sneha,Account,Chat,Refund,5,Yes,5,No,Regular,North
+T0499,21-02-2026,Pooja,Delivery,Call,Payment Failed,42,Yes,4,No,Regular,West
+T0500,03-03-2026,Rahul,Delivery,Chat,Refund,7,Yes,4,No,Prime,South
